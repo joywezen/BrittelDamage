@@ -9,4 +9,5 @@ int main()
     xrdb -merge .Xresources
     xterm
     */
+    // multiline comments
 }
